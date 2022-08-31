@@ -1,5 +1,5 @@
 # MoveSLPlusX
-NinjaTrader indicator: adds buttons to the chart trader to move the stop loss defined number of ticks 
+NinjaTrader indicator: adds buttons to the chart trader to move the stop loss by a defined number of ticks 
 
 ![screenshot](https://user-images.githubusercontent.com/90933537/187703175-e9aa59cc-69ca-4206-b688-7eab24a8969b.png)
 
